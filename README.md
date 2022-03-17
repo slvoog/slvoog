@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 - I'm svloog
+I'm a guy trying to do dev things while failing miserably
 
-<!--
-**slvoog/slvoog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### `- 🔭 I’m currently working on ...`
+- [`slvoog/susdle`](https://github.com/slvoog/susdle) - Susdle: Wordle, but sus
+- [`slvoog.github.io`](https://github.com/slvoog/slvoog.github.io) - My website/portfolio!
 
-Here are some ideas to get you started:
+#### `🌱 I’m currently learning ...`
+- Javascript (Mainly)
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### `😄 Pronouns: ...`
+- **he/him** but I don't really care
