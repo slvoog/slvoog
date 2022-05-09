@@ -6,8 +6,10 @@ I'm a guy trying to do dev things while failing miserably
 - [`slvoog.github.io`](https://github.com/slvoog/slvoog.github.io) - My website/portfolio!
 
 #### `🌱 I’m currently learning ...`
-- Javascript (Mainly)
-- Python
+- Javascript
+- HTML
+- CSS
 
-#### `😄 Pronouns: ...`
-- **he/him** but I don't really care
+#### `✅ I know...`
+- Python
+- Scratch :trollface:
