@@ -1,15 +1,22 @@
-### Hi there 👋 - I'm svloog
+### Hi there 👋 - I'm Saad
 I'm a guy trying to do dev things while failing miserably
 
 #### `- 🔭 I’m currently working on ...`
-- [`slvoog/susdle`](https://github.com/slvoog/susdle) - Susdle: Wordle, but sus
-- [`slvoog.github.io`](https://github.com/slvoog/slvoog.github.io) - My website/portfolio!
+- Mula: Expense Tracker
+- Timely
+- [`svloogz.xyz`](https://github.com/slvoog/slvoog.github.io) - My website/portfolio!
 
 #### `🌱 I’m currently learning ...`
-- Javascript
-- HTML
-- CSS
+- Swift
+- SwiftUI
 
 #### `✅ I know...`
 - Python
+- Javascript
+- Vue
+- Postgres
+- HTML
+- CSS
+- Tailwind
+- Node.js
 - Scratch :trollface:
