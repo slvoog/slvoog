@@ -18,4 +18,3 @@ I'm a guy trying to do dev things while failing miserably
 - CSS
 - Tailwind
 - Node.js
-- Scratch :trollface:
